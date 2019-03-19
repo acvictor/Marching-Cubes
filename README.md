@@ -3,6 +3,7 @@ A visualization of 3D scalar fields using slicing and Marching Cubes algorithm i
 
 ## Data
 The scalar field data used here was taken from http://sciviscontest-staging.ieeevis.org/2008/index.html
+
 Each file was preprocessed to include one scalar field per file. The width, height and depth are predefined in the code according to the dataset description.
 
 ## Usage
