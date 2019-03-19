@@ -31,7 +31,7 @@ The plane equation of the slice is ax + by + cz + d = 0
 * Use left mouse button to rotate in any direction
 * Use ESC or 'q' to quit.
 
-#### Results
+## Results
 10 isosurfaces
 <p align="left">
 <img src="https://github.com/acvictor/Marching-Cubes/blob/master/images/1.png" width="520" height="260" border="0" /></a> 
